@@ -2,6 +2,10 @@
 
 A beginner-friendly Python project for exploring a synthetic social network. It analyzes post sentiment and terms, builds a network graph, calculates centrality metrics, finds communities, and presents the results in an interactive Streamlit dashboard.
 
+## Live Demo
+
+[Open the live Streamlit dashboard](https://nlp-social-network-analysis-txkeq77qhxmjw7nxyb8lsm.streamlit.app/)
+
 ## Project status
 
 **Phases 0 through 7 are complete.** Phase 7 adds end-to-end reproducibility checks, a small manually labeled VADER evaluation, and final review documents. The dashboard presents existing graph, centrality, community and NLP outputs without rerunning analysis or modifying generated files.
