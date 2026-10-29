@@ -22,6 +22,12 @@ htmlcov/
 # Generated project output
 outputs/*
 !outputs/.gitkeep
+!outputs/processed_posts.csv
+!outputs/graph_summary.json
+!outputs/centrality_results.csv
+!outputs/community_membership.csv
+!outputs/community_summary.csv
+!outputs/community_detection_summary.json
 
 # Editor and operating system files
 .vscode/
